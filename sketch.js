@@ -61,5 +61,5 @@ function draw(){
 
     bird.display();
     platform.display();
-    console.log(platform.body.position.x);
+    text("angrybird", 300, 300)
 }
